@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e .  # it is link to setup.py file in the current directory, which allows you to install the package in editable mode
