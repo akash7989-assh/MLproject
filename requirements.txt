@@ -1,4 +1,8 @@
 pandas
 numpy
 seaborn
--e .  # it is link to setup.py file in the current directory, which allows you to install the package in editable mode
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e .  # it is link to setup.py file in the current directory, which allows you to install the package in editable mode
