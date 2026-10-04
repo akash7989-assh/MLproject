@@ -5,4 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 # -e .  # it is link to setup.py file in the current directory, which allows you to install the package in editable mode
